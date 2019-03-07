@@ -1,0 +1,34 @@
+{
+    "name": "jon-andromeda",
+    "displayName": "jon-andromeda",
+    "description": "A Fork of Eliver's Andromeda Theme with Personal Modifications",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.31.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "publisher": "Jon Truran",
+	"author": {
+		"name": "Jon Truran",
+		"url": "https://github.com/zeph1rus/jon-andromeda"
+	},
+	"repository": {
+		"url": "https://github.com/zeph1rus/jon-andromeda"
+	},
+    "contributes": {
+        "themes": [
+            {
+                "label": "jon-andromeda",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jon-andromeda-theme.json"
+            },
+            {
+                "label": "jon-andromeda colorizer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/jon-andromeda-colorizer.json"
+            }
+        ]
+    }
+}
