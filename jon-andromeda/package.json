@@ -9,13 +9,13 @@
     "categories": [
         "Themes"
     ],
-    "publisher": "Jon Truran",
+    "publisher": "JonTruran",
 	"author": {
 		"name": "Jon Truran",
-		"url": "https://github.com/zeph1rus/jon-andromeda"
+		"url": "https://dev.azure.com/JonTruran/jon-andromeda"
 	},
 	"repository": {
-		"url": "https://github.com/zeph1rus/jon-andromeda"
+		"url": "https://dev.azure.com/JonTruran/jon-andromeda"
 	},
     "contributes": {
         "themes": [
