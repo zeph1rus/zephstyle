@@ -2,7 +2,7 @@
     "name": "jon-andromeda",
     "displayName": "jon-andromeda",
     "description": "A Fork of Eliver's Andromeda Theme with Personal Modifications",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.31.0"
     },
