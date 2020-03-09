@@ -10,7 +10,7 @@ steps:
       sudo npm install -g vsce
       vsce package
     displayName: Create VSIX
-    workingDirectory: $(Build.Build.SourcesDirectory)/jon-andromeda/
+    workingDirectory: $(Build.SourcesDirectory)/jon-andromeda/
 
   # Choose files to publish
   - task: CopyFiles@2
