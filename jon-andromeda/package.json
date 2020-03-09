@@ -1,33 +1,28 @@
 {
-    "name": "jon-andromeda",
+    "name": "zephstyle",
     "displayName": "jon-andromeda",
-    "description": "A Fork of Eliver's Andromeda Theme with Personal Modifications",
-    "version": "0.0.2",
+    "description": "Originally based on a fork of eliver's andromeda, now something different",
+    "version": "0.0.1",
     "engines": {
         "vscode": "^1.31.0"
     },
     "categories": [
         "Themes"
     ],
-    "publisher": "JonTruran",
+    "publisher": "zeph1rus",
 	"author": {
 		"name": "Jon Truran",
-		"url": "https://dev.azure.com/JonTruran/jon-andromeda"
+		"url": "https://dev.azure.com/zeph1rus"
 	},
 	"repository": {
-		"url": "https://dev.azure.com/JonTruran/jon-andromeda"
+		"url": "https://dev.azure.com/zeph1rus"
 	},
     "contributes": {
         "themes": [
             {
-                "label": "jon-andromeda",
+                "label": "zephstyle",
                 "uiTheme": "vs-dark",
                 "path": "./themes/jon-andromeda-theme.json"
-            },
-            {
-                "label": "jon-andromeda colorizer",
-                "uiTheme": "vs-dark",
-                "path": "./themes/jon-andromeda-colorizer.json"
             }
         ]
     }
