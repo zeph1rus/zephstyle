@@ -17,12 +17,12 @@ steps:
     displayName: Stage VSIX for publishing
     inputs:
       contents: |-
-        *.vsix
+        $(Build.SourcesDirectory)/jon-andromeda/*.vsix
       targetFolder: $(Build.ArtifactStagingDirectory)
 
   # Publish files as an artifact
   - task: PublishPipelineArtifact@1
     displayName: Publish VSIX
     inputs:
-      artifact: git-mob-vs-code
+      artifact: zephstyle_vsix
       targetPath: $(Build.ArtifactStagingDirectory)
