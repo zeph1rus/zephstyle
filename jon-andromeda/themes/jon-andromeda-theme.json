@@ -122,7 +122,7 @@
         "merge.currentContentBackground": "#F9267240",
         "merge.incomingHeaderBackground": "#3B79C7BB",
         "merge.incomingContentBackground": "#3B79C740",
-        "minimap.background": "#505050",
+        "minimap.background": "#5050507F",
         "panel.background": "#23262E",
         "panel.border": "#1B1D23",
         "panelTitle.activeBorder": "#23262E",
@@ -138,12 +138,12 @@
 
         "titleBar.activeBackground": "#23262E",
 
-        "notification.background": "#2d313b",
+        "notification.background": "#2d313bAA",
         "notification.buttonBackground": "#FF9F2E60",
         "notification.buttonHoverBackground": "#FFf700",
         "notification.infoBackground": "#00b0ff",
         "notification.warningBackground": "#FF9F2E",
-        "notification.errorBackground": "#FC644D",
+        "notification.errorBackground": "#9C3343",
 
         "extensionButton.prominentBackground": "#FF9F2E60",
         "extensionButton.prominentHoverBackground": "#FFf700",
