@@ -11,6 +11,11 @@
         "button.background": "##DE9237",
         "button.hoverBackground": "#FFF700",
 
+        "extensionButton.prominentForeground": "#2b303b",
+        "extensionButton.prominentBackground": "#DE9237",
+        "extensionButton.prominentHoverBackground": "#FFF700",
+
+
         "dropdown.background": "#2b303b",
         "dropdown.border": "#363c49",
 
@@ -133,6 +138,7 @@
         "statusBar.noFolderBackground": "#23262E",
         "statusBarItem.activeBackground": "#746f77",
         "statusBarItem.hoverBackground": "#FFf700",
+        "statusBarItem.prominentForeground": "#23262E",
         "statusBarItem.prominentBackground": "#FFf700",
         "statusBarItem.prominentHoverBackground": "#746f77",
 
@@ -144,9 +150,6 @@
         "notification.infoBackground": "#00b0ff",
         "notification.warningBackground": "#FF9F2E",
         "notification.errorBackground": "#9C3343",
-
-        "extensionButton.prominentBackground": "#FF9F2E60",
-        "extensionButton.prominentHoverBackground": "#FFf700",
 
         "pickerGroup.border": "#4F4355",
         "pickerGroup.foreground": "#746f77",
@@ -257,7 +260,6 @@
                 "source.css entity.other.attribute-name",
                 "text.xml punctuation.definition.string",
                 "punctuation.definition.string"
-               
             ],
             "settings": {
                 "foreground": "#f9e500"
