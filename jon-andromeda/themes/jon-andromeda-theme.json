@@ -8,8 +8,8 @@
         "selection.background": "#d2d1d3",
         "errorForeground": "#FC644D",
 
-        "button.background": "#00e8c5cc",
-        "button.hoverBackground": "#07d4b6cc",
+        "button.background": "##DE9237",
+        "button.hoverBackground": "#FFF700",
 
         "dropdown.background": "#2b303b",
         "dropdown.border": "#363c49",
@@ -105,7 +105,7 @@
         "editorSuggestWidget.border": "#372F3C",
         "editorSuggestWidget.selectedBackground": "#373941",
         "editorHoverWidget.background": "#373941",
-        "editorHoverWidget.border": "#00e8c5cc",
+        "editorHoverWidget.border": "#f0d529",
         "debugExceptionWidget.background": "#FF9F2E60",
         "debugExceptionWidget.border": "#FF9F2E60",
 
@@ -122,7 +122,7 @@
         "merge.currentContentBackground": "#F9267240",
         "merge.incomingHeaderBackground": "#3B79C7BB",
         "merge.incomingContentBackground": "#3B79C740",
-
+        "minimap.background": "#505050",
         "panel.background": "#23262E",
         "panel.border": "#1B1D23",
         "panelTitle.activeBorder": "#23262E",
@@ -131,22 +131,22 @@
         "statusBar.background": "#23262E",
         "statusBar.debuggingBackground": "#FC644D",
         "statusBar.noFolderBackground": "#23262E",
-        "statusBarItem.activeBackground": "#00e8c5cc",
-        "statusBarItem.hoverBackground": "#07d4b5b0",
-        "statusBarItem.prominentBackground": "#07d4b5b0",
-        "statusBarItem.prominentHoverBackground": "#00e8c5cc",
+        "statusBarItem.activeBackground": "#746f77",
+        "statusBarItem.hoverBackground": "#FFf700",
+        "statusBarItem.prominentBackground": "#FFf700",
+        "statusBarItem.prominentHoverBackground": "#746f77",
 
         "titleBar.activeBackground": "#23262E",
 
         "notification.background": "#2d313b",
-        "notification.buttonBackground": "#00e8c5cc",
-        "notification.buttonHoverBackground": "#07d4b5b0",
+        "notification.buttonBackground": "#FF9F2E60",
+        "notification.buttonHoverBackground": "#FFf700",
         "notification.infoBackground": "#00b0ff",
         "notification.warningBackground": "#FF9F2E",
         "notification.errorBackground": "#FC644D",
 
-        "extensionButton.prominentBackground": "#07d4b6cc",
-        "extensionButton.prominentHoverBackground": "#07d4b5b0",
+        "extensionButton.prominentBackground": "#FF9F2E60",
+        "extensionButton.prominentHoverBackground": "#FFf700",
 
         "pickerGroup.border": "#4F4355",
         "pickerGroup.foreground": "#746f77",

@@ -2,7 +2,7 @@
     "name": "zephstyle",
     "displayName": "zephstyle",
     "description": "Originally based on a fork of eliver's andromeda, now something different",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.31.0"
     },
